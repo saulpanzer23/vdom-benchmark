@@ -5,7 +5,7 @@ benchmarkConfig({
     {
       "name": "morphdom2",
       "url": "https://github.com/patrick-steele-idem/morphdom",
-      "benchmarkUrl": "http://vdom-benchmark.github.io/vdom-benchmark-morphdom/"
+      "benchmarkUrl": "https://github.com/saulpanzer23/morphdom/"
     }
   ]
 });
